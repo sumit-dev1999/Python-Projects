@@ -116,7 +116,7 @@ The project uses percentage-based grading conditions.
 | `print()` | Display the student report |
 
 
-8
+## 8.Project Status
 - Status: Complete
 
 
